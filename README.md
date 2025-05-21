@@ -3,4 +3,6 @@ This is the repository used to share important files and information on the Elec
 
 You're free to use and modify these files however you want, according to the MIT license (found in LICENSE.md).
 
+For more information, check out the thesis.
+
 Enjoy!
